@@ -14,7 +14,7 @@ A motion-driven real estate portfolio featuring custom scroll snap animations an
 * JavaScript (ES6)
 
 ### Getting Started
-Open `Untitled-2.html` directly in your browser, or run a local live server.
+Open `index.html` directly in your browser, or run a local live server.
 
 ### License
 Licensed under the MIT License.
